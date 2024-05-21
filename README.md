@@ -1,2 +1,2 @@
 # Simple Blog Generator app 
-## Langchain, llama-2 from Meta and Streamlit
+## Framework used: Langchain, llama-2 from Meta and Streamlit
